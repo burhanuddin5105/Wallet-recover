@@ -1,2 +1,2 @@
-# AngryBirdsStage6
-Stage 6 Angry Birds Game (Pigs Vanishing)
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
